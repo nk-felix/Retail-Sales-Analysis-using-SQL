@@ -1,7 +1,3 @@
-Here’s the rewritten section with improved detail and clarity:  
-
----
-
 # Retail Sales Analysis SQL Project
 
 ## Project Overview
